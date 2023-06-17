@@ -5,8 +5,8 @@
 /**
  * main - Prints the last digit of a randomly generated number
  * and whether is greater than 5, less than 6, or 0.
- *
  *Return: Always 0 (success)
+ *
  */
 int main(void)
 {
@@ -18,7 +18,7 @@ int main(void)
 	{
 		printf("Last digit of %d is %d and is greater than 5\n", n, n % 10);
 	}
-	else if ((n % 10) < 6 && (n % 10) 1 = 0)
+	else if ((n % 10) = 0)
 	{
 		printf("Last digit of %d is %d and is less than and not 0\n", n, n % 10);
 	else
@@ -26,4 +26,3 @@ int main(void)
 	}
 	return (0);
 }
-
