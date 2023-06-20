@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * main - Entry point
- * author: Mac-anthony
- * Return 0 (success)
+ * main - entry point
+ * author Mac-anthony
+ * Return: Always 0 (success)
  */
 
 int main(void)
